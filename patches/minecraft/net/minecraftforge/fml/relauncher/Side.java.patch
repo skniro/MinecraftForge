@@ -1,0 +1,21 @@
+--- ../src-base/minecraft/net/minecraftforge/fml/relauncher/Side.java
++++ /dev/null
+@@ -1,18 +0,0 @@
+-package net.minecraftforge.fml.relauncher;
+-
+-public enum Side
+-{
+-    CLIENT,
+-    SERVER,
+-    BUKKIT;
+-
+-    public boolean isServer()
+-    {
+-        return !this.isClient();
+-    }
+-
+-    public boolean isClient()
+-    {
+-        return this == CLIENT;
+-    }
+-}

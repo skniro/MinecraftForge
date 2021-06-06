@@ -62,7 +62,7 @@ ext {
     MAPPING_CHANNEL = 'snapshot'
     MAPPING_VERSION = '20171003-1.12'
     MC_VERSION = '1.12.2'
-    MCP_VERSION = '20200226.224830'
+    MCP_VERSION = '20201025.185735'
     POST_PROCESSOR = [
         tool: 'net.minecraftforge:mcpcleanup:2.3.2:fatjar',
         repo: 'https://files.minecraftforge.net/maven/',

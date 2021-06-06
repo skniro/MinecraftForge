@@ -1,0 +1,24 @@
+Manifest-Version: 1.0
+Main-Class: net.minecraftforge.fml.relauncher.ServerLaunchWrapper 
+Class-Path: libraries/org/ow2/asm/asm-debug-all/5.2/asm-debug-all-5.2. j
+ ar libraries/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar li
+ braries/org/jline/jline/3.5.1/jline-3.5.1.jar libraries/com/typesa fe/a
+ kka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar libraries/com /type
+ safe/config/1.2.1/config-1.2.1.jar libraries/org/scala-lang/scal a-acto
+ rs-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar l ibrarie
+ s/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.j ar libra
+ ries/org/scala-lang/plugins/scala-continuations-library_2.11/ 1.0.2_mc/
+ scala-continuations-library_2.11-1.0.2_mc.jar libraries/org/ scala-lang
+ /plugins/scala-continuations-plugin_2.11.1/1.0.2_mc/scala-c ontinuation
+ s-plugin_2.11.1-1.0.2_mc.jar libraries/org/scala-lang/scal a-library/2.
+ 11.1/scala-library-2.11.1.jar libraries/org/scala-lang/sc ala-parser-co
+ mbinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1 .jar libraries
+ /org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11 .1.jar librarie
+ s/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2. 11-1.0.1.jar lib
+ raries/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_ 2.11-1.0.2.jar li
+ braries/lzma/lzma/0.0.1/lzma-0.0.1.jar libraries/jav a3d/vecmath/1.5.2/
+ vecmath-1.5.2.jar libraries/net/sf/trove4j/trove4j/ 3.0.3/trove4j-3.0.3
+ .jar libraries/org/apache/maven/maven-artifact/3.5 .3/maven-artifact-3.
+ 5.3.jar libraries/net/sf/jopt-simple/jopt-simple/ 5.0.3/jopt-simple-5.0
+ .3.jar minecraft_server.1.12.2.jar
+
